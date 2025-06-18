@@ -1,0 +1,14 @@
+C:\Users\louag\source\repos\TheVowelCodeEx\TheVowelCodeEx\bin\Debug\net8.0\TheVowelCodeEx.exe
+C:\Users\louag\source\repos\TheVowelCodeEx\TheVowelCodeEx\bin\Debug\net8.0\TheVowelCodeEx.deps.json
+C:\Users\louag\source\repos\TheVowelCodeEx\TheVowelCodeEx\bin\Debug\net8.0\TheVowelCodeEx.runtimeconfig.json
+C:\Users\louag\source\repos\TheVowelCodeEx\TheVowelCodeEx\bin\Debug\net8.0\TheVowelCodeEx.dll
+C:\Users\louag\source\repos\TheVowelCodeEx\TheVowelCodeEx\bin\Debug\net8.0\TheVowelCodeEx.pdb
+C:\Users\louag\source\repos\TheVowelCodeEx\TheVowelCodeEx\obj\Debug\net8.0\TheVowelCodeEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louag\source\repos\TheVowelCodeEx\TheVowelCodeEx\obj\Debug\net8.0\TheVowelCodeEx.AssemblyInfoInputs.cache
+C:\Users\louag\source\repos\TheVowelCodeEx\TheVowelCodeEx\obj\Debug\net8.0\TheVowelCodeEx.AssemblyInfo.cs
+C:\Users\louag\source\repos\TheVowelCodeEx\TheVowelCodeEx\obj\Debug\net8.0\TheVowelCodeEx.csproj.CoreCompileInputs.cache
+C:\Users\louag\source\repos\TheVowelCodeEx\TheVowelCodeEx\obj\Debug\net8.0\TheVowelCodeEx.dll
+C:\Users\louag\source\repos\TheVowelCodeEx\TheVowelCodeEx\obj\Debug\net8.0\refint\TheVowelCodeEx.dll
+C:\Users\louag\source\repos\TheVowelCodeEx\TheVowelCodeEx\obj\Debug\net8.0\TheVowelCodeEx.pdb
+C:\Users\louag\source\repos\TheVowelCodeEx\TheVowelCodeEx\obj\Debug\net8.0\TheVowelCodeEx.genruntimeconfig.cache
+C:\Users\louag\source\repos\TheVowelCodeEx\TheVowelCodeEx\obj\Debug\net8.0\ref\TheVowelCodeEx.dll
